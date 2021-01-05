@@ -5,6 +5,8 @@ applet/
 *.DS_Store
 desktop.ini
 
+*config.ini
+
 #
 # Misc
 #
